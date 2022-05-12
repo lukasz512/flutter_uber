@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "247718178172",
+    "firebase_url": "https://taxi-cab-demo-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "taxi-cab-demo",
+    "storage_bucket": "taxi-cab-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247718178172:android:2b198f1ee79b7252c7c8f9",
+        "android_client_info": {
+          "package_name": "com.example.cab_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247718178172-9n4fm1b5difrilea4avtp9dkql5dm0bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKFFFpPgGzTJ0TQwlzwsMksWfLESlrBo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247718178172-9n4fm1b5difrilea4avtp9dkql5dm0bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
